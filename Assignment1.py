@@ -1,0 +1,11 @@
+num1=input("Enter first number:")
+num2=input("Enter second number:")
+#operations on two numbers
+addition=float(num1)+float(num2)
+subtraction=float(num1)-float(num2)
+multiplication=float(num1)*float(num2)
+division=float(num1)/float(num2)
+print("Addition:",addition)
+print("subtraction:",subtraction)
+print("multiplication:",multiplication)
+print("division:",division)
